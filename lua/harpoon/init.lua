@@ -122,6 +122,7 @@ local function expand_dir(config)
     local projects = config.projects or {}
     for k in pairs(projects) do
         local expanded_path = Path.new(k):expand()
+        log.debug("expanded_path: ", expanded_path, "k: ", k)
         projects[expanded_path] = projects[k]
         if expanded_path ~= k then
             projects[k] = nil
@@ -135,14 +136,50 @@ end
 function M.save()
     -- first refresh from disk everything but our project
     M.refresh_projects_b4update()
-
     log.trace("save(): Saving cache config to", cache_config)
-    Path:new(cache_config):write(vim.fn.json_encode(HarpoonConfig), "w")
+    local _id = vim.fn.jobstart({
+        "python3",
+        vim.env.DEV .. "/personal/harpoon/on_save.py",
+    }, {
+        env = { DEV = vim.env.DEV },
+        stdout_buffered = true,
+        on_stdout = function(_, data)
+            if not data then
+                return
+            end
+            local decoded = ""
+            for _, line in ipairs(data) do
+                log.debug("_save() line=", line)
+                decoded = decoded .. line
+            end
+            Path:new(cache_config):write(data)
+        end,
+    })
+    vim.fn.chansend(_id, vim.fn.json_encode(HarpoonConfig) .. "\n")
 end
 
 local function read_config(local_config)
     log.trace("_read_config():", local_config)
-    return vim.fn.json_decode(Path:new(local_config):read())
+    log.trace("save(): Saving cache config to", cache_config)
+    local _id = vim.fn.jobstart({
+        "python3",
+        vim.env.DEV .. "/personal/harpoon/on_load.py",
+    }, {
+        env = { DEV = vim.env.DEV },
+        stdout_buffered = true,
+        on_stdout = function(_, data)
+            if not data then
+                return
+            end
+            -- local decoded = ""
+            -- for _, line in ipairs(data) do
+            --     log.debug("_read_config() line=", line)
+            --     decoded = decoded .. line
+            -- end
+            return vim.fn.json_decode(data)
+        end,
+    })
+    vim.fn.chansend(_id, vim.fn.json_encode(HarpoonConfig) .. "\n")
 end
 
 -- 1. saved.  Where do we save?
@@ -184,7 +221,7 @@ function M.setup(config)
     ensure_correct_config(complete_config)
 
     HarpoonConfig = complete_config
-    log.debug("setup(): Complete config", HarpoonConfig)
+    -- log.debug("setup(): Complete config", HarpoonConfig)
     log.trace("setup(): log_key", Dev.get_log_key())
 end
 

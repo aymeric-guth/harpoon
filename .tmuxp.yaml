@@ -1,0 +1,29 @@
+plugins:
+  - tmuxp_plugin_loader.plugin.Loader
+options:
+  automatic-rename: on
+synchronize-panes: on
+
+windows:
+  - window_name: editor
+    start_directory: .
+    layout: even-horizontal
+    panes:
+      - shell_command:
+        - editor .
+
+  - window_name: shell
+    start_directory: .
+    layout: even-horizontal
+    panes:
+      - pane
+      - shell_command:
+        - editor ~/vim.log
+
+  - window_name: shell
+    start_directory: ~/.local/share/nvim/site/pack/packer/start/cmp-tabnine
+    layout: even-horizontal
+    panes:
+      - shell_command:
+        - editor .
+
