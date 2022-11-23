@@ -1,0 +1,3987 @@
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+[harpoon] [ERROR 08:22:51] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669188154 _save(): start
+Do you need to configure your work environment as `busted`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 1
+Do you need to configure your work environment as `luassert`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 1
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+...pack/packer/start/cmp-tabnine/lua/cmp_tabnine/source.lua:317: attempt to call method 'find' (a nil value)
+stack traceback:
+^I...pack/packer/start/cmp-tabnine/lua/cmp_tabnine/source.lua:317: in function 'on_stdout'
+^I...pack/packer/start/cmp-tabnine/lua/cmp_tabnine/source.lua:286: in function <...pack/packer/start/cmp-tabnine/lua/cmp_tabnine/source.lua:285>
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"requirements.txt" 
+"requirements.txt" 5L, 85B written
+"requirements.txt" 5L, 85B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"requirements.txt" 
+"requirements.txt" 6L, 93B written
+"requirements.txt" 6L, 93B written
+E78: Unknown mark
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+"requirements.txt" 
+"requirements.txt" 5L, 87B written
+"requirements.txt" 5L, 87B written
+
+
+
+[harpoon] [ERROR 09:00:24] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669190415 _save(): start
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+[NvimTree] /home/yul/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py was properly created
+
+[harpoon] [ERROR 08:54...9190084 _save(): start-- VISUAL --
+119 more lines
+37 more lines
+17 fewer lines
+17 fewer lines
+17 more lines; before #2  2 seconds ago
+17 more lines; before #2  2 seconds ago
+17 fewer lines
+17 fewer lines-- VISUAL LINE --
+30 fewer lines
+30 fewer lines
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 120L, 4386B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 120L, 4386B written
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 121L, 4392B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 121L, 4392B written-- INSERT --
+
+
+<Modules/Cryptographie/src/feistel_network.py" 
+<ie/src/feistel_network.py" 121L, 4392B written
+<ie/src/feistel_network.py" 121L, 4392B written-- VISUAL --
+[osc52] 14 characters copied-- VISUAL --
+[osc52] 42 characters copied-- VISUAL --
+[osc52] 62 characters copied
+-- INSERT --
+[harpoon] [ERROR 09:08:53] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669190084 _save(): start-- INSERT ---- INSERT ---- INSERT --
+
+
+[harpoon] [ERROR 09:08:55] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669190084 _save(): start
+
+
+
+[harpoon] [ERROR 09:14:15] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669190084 _save(): start
+
+
+
+[harpoon] [ERROR 09:14:17] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669190084 _save(): start
+[harpoon] [ERROR 09:14:19] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669190084 _save(): start
+E20: Mark not set
+
+[harpoon] [ERROR 09:14:20] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669190084 _save(): start
+
+[harpoon] [ERROR 09:14:22] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669190084 _save(): start
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+[harpoon] [ERROR 09:28:41] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669192118 _save(): start
+
+[harpoon] [ERROR 09:30:06] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669192118 _save(): start
+
+
+
+
+
+
+
+[harpoon] [ERROR 09:30:15] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669192118 _save(): start
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+[harpoon] [ERROR 13:24:48] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669206272 _save(): start
+Do you need to configure your work environment as `busted`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 1
+                                                                       Do you need to configure your work environment as `luassert`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 1
+-- INSERT --
+[harpoon] [ERROR 13:28:40] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669206272 _save(): start-- INSERT ---- INSERT ---- INSERT --
+
+
+[harpoon] [ERROR 13:28:47] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669206272 _save(): start
+
+[harpoon] [ERROR 13:28:59] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669206272 _save(): start
+
+
+
+[harpoon] [ERROR 13:29:29] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669206272 _save(): start-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 333L, 9737B written
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 333L, 9737B written
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+[harpoon] [ERROR 14:01:26] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669208480 _save(): start
+[harpoon] [ERROR 14:01:26] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669208480 _save(): end
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+[harpoon] [ERROR 13:30:15] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669206611 _save(): start
+[harpoon] [ERROR 13:30:15] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669206611 _save(): end
+Do you need to configure your work environment as `busted`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 1
+Do you need to configure your work environment as `luassert`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 1
+
+[harpoon] [ERROR 13:30:27] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669206611 _save(): start
+[harpoon] [ERROR 13:30:27] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669206611 _save(): end
+
+
+[harpoon] [ERROR 13:30:37] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669206611 _save(): start
+[harpoon] [ERROR 13:30:37] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669206611 _save(): end
+[harpoon] [ERROR 13:30:37] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669206611 _save(): start
+[harpoon] [ERROR 13:30:37] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669206611 _save(): end-- INSERT --
+-- INSERT --
+-- INSERT --
+
+
+"~/dev/personal/harpoon/on_save.py" 
+"~/dev/personal/harpoon/on_save.py" 47L, 1180B written
+"~/dev/personal/harpoon/on_save.py" 47L, 1180B written-- INSERT --
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+[harpoon] [ERROR 09:14:27] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start-- VISUAL --
+[osc52] 20 characters copied
+
+[harpoon] [ERROR 09:17:56] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+
+[harpoon] [ERROR 09:17:59] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start-- VISUAL --
+[osc52] 46 characters copied-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 125L, 4485B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 125L, 4485B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 126L, 4532B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py" 126L, 4532B written
+
+[harpoon] [ERROR 14:44:53] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+
+[harpoon] [ERROR 14:44:55] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+
+[harpoon] [ERROR 14:44:55] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+
+[harpoon] [ERROR 14:44:56] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start-- INSERT --
+
+
+[harpoon] [ERROR 14:46:39] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+
+[harpoon] [ERROR 14:46:40] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+
+[harpoon] [ERROR 14:50:18] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): s
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+"src/feistel_network.py" 
+"src/feistel_network.py" 126L, 4532B
+tart
+
+[harpoon] [ERROR 14:50:20] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+
+[harpoon] [ERROR 14:52:28] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+[NvimTree] /home/yul/dev/learning/MNS/Modules/Cryptographie/src/TP4.py was properly created
+
+[harpoon] [ERROR 14:52:43] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+[harpoon] [ERROR 14:52:43] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+3 more lines
+4 fewer lines; before #1  1 second ago
+4 fewer lines; before #1  1 second ago-- INSERT ---- INSERT --
+3 more lines
+-- INSERT ---- INSERT --
+7 more lines
+-- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 17L, 466B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 17L, 466B written-- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 22L, 538B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 22L, 538B written-- INSERT --
+-- INSERT --
+-- INSERT --
+
+28 more lines
+
+[harpoon] [ERROR 14:57:41] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+
+[harpoon] [ERROR 14:57:43] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+[harpoon] [ERROR 14:57:43] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start-- INSERT --
+
+
+"requirements.txt" 
+"requirements.txt" 6L, 100B written
+"requirements.txt" 6L, 100B written
+
+E37: No write since last change
+E162: No write since last change for buffer "/home/yul/dev/learning/MNS/Modules/Cryptographie/src/feistel_network.py"
+[harpoon] [ERROR 14:57:49] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+
+[harpoon] [ERROR 14:58:25] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+
+
+[harpoon] [ERROR 14:58:27] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+[harpoon] [ERROR 14:58:27] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669191264 _save(): start
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 50L, 1077B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 50L, 1077B written-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 50L, 1098B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 50L, 1098B written-- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- VISUAL LINE ---- VISUAL BLOCK ---- INSERT --
+-- VISUAL LINE ---- VISUAL BLOCK ---- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 42L, 1001B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 42L, 1001B written-- VISUAL ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+-- VISUAL LINE --
+5 fewer lines
+5 fewer lines
+5 more lines
+5 more lines-- INSERT --
+-- INSERT --
+-- INSERT --
+-- VISUAL ---- VISUAL ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 40L, 1030B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 40L, 1030B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 40L, 1035B written
+<es/Cryptographie/src/TP4.py" 40L, 1035B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 40L, 1035B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 40L, 1035B written-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 41L, 1035B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 41L, 1035B written-- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 41L, 1026B written
+<es/Cryptographie/src/TP4.py" 41L, 1026B written
+1 change; before #83  15 seconds ago
+1 change; before #83  15 seconds ago-- INSERT --
+-- VISUAL BLOCK ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 41L, 1043B written
+<es/Cryptographie/src/TP4.py" 41L, 1043B written
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 41L, 1041B written
+<es/Cryptographie/src/TP4.py" 41L, 1041B written-- VISUAL --
+[osc52] 6 characters copied-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 41L, 1054B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 41L, 1054B written-- VISUAL ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 41L, 1053B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 41L, 1053B written
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 41L, 1049B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 41L, 1049B written-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 40L, 1047B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 40L, 1047B written-- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 40L, 1034B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 40L, 1034B written-- VISUAL LINE ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- VISUAL BLOCK ---- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 42L, 1114B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 42L, 1114B written-- INSERT --
+-- INSERT --
+-- INSERT --
+
+16 more lines-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 54L, 1438B written
+<es/Cryptographie/src/TP4.py" 54L, 1438B written-- VISUAL ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- VISUAL ---- VISUAL --
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 53L, 1452B written
+<es/Cryptographie/src/TP4.py" 53L, 1452B written-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- VISUAL BLOCK ---- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 54L, 1490B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 54L, 1490B written-- VISUAL ---- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+
+E20: Mark not set-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- VISUAL ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+-- VISUAL ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 55L, 1519B written
+<es/Cryptographie/src/TP4.py" 55L, 1519B written-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 56L, 1546B written
+<es/Cryptographie/src/TP4.py" 56L, 1546B written-- VISUAL BLOCK ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 56L, 1554B written
+<es/Cryptographie/src/TP4.py" 56L, 1554B written-- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- VISUAL ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- INSERT --
+
+1 change; before #187  1 second ago
+1 change; before #187  1 second ago-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 62L, 1692B written
+<es/Cryptographie/src/TP4.py" 62L, 1692B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 62L, 1706B written
+<es/Cryptographie/src/TP4.py" 62L, 1706B written-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 65L, 1743B written
+<es/Cryptographie/src/TP4.py" 65L, 1743B written-- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 64L, 1738B written
+<es/Cryptographie/src/TP4.py" 64L, 1738B written-- VISUAL ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 64L, 1767B written
+<es/Cryptographie/src/TP4.py" 64L, 1767B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 64L, 1777B written
+<es/Cryptographie/src/TP4.py" 64L, 1777B written-- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 64L, 1777B written
+<es/Cryptographie/src/TP4.py" 64L, 1777B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 64L, 1789B written
+<es/Cryptographie/src/TP4.py" 64L, 1789B written-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 65L, 1799B written
+<es/Cryptographie/src/TP4.py" 65L, 1799B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 65L, 1798B written
+<es/Cryptographie/src/TP4.py" 65L, 1798B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 65L, 1798B written
+<es/Cryptographie/src/TP4.py" 65L, 1798B written-- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- VISUAL --
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 65L, 1838B written
+<es/Cryptographie/src/TP4.py" 65L, 1838B written-- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 65L, 1837B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 65L, 1837B written-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 66L, 1826B written
+<es/Cryptographie/src/TP4.py" 66L, 1826B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- VISUAL LINE --
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 65L, 1782B written
+<es/Cryptographie/src/TP4.py" 65L, 1782B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- VISUAL --
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 65L, 1820B written
+<es/Cryptographie/src/TP4.py" 65L, 1820B written-- INSERT --
+-- INSERT --
+-- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 66L, 1825B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 66L, 1825B written-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 66L, 1837B written
+<es/Cryptographie/src/TP4.py" 66L, 1837B written
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 66L, 1835B written
+<es/Cryptog
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+No Syntax items defined for this buffer
+No Syntax items defined for this buffer
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *-- INSERT --
+-- VISUAL --
+[osc52] 6 characters copied
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+No Syntax items defined for this buffer
+No Syntax items defined for this buffer
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *-- INSERT --
+-- INSERT --
+-- VISUAL ---- VISUAL --
+[osc52] 139 characters copied
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+No Syntax items defined for this buffer
+No Syntax items defined for this buffer
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *-- INSERT --
+-- INSERT --
+
+--No lines in buffer--
+
+
+[LSP] Format request failed, no matching language servers.
+"/tmp/zshu9zrro" 
+"/tmp/zshu9zrro" 2L, 2687B written
+"/tmp/zshu9zrro" 2L, 2687B written
+
+
+"/tmp/zshu9zrro" 
+"/tmp/zshu9zrro" 2L, 2687B written
+"/tmp/zshu9zrro" 2L, 2687B written
+
+
+-- INSERT --
+
+
+
+
+-- INSERT --
+
+-- INSERT ---- INSERT --
+[harpoon] [ERROR 16:43:19] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669218086 _save(): start
+[harpoon] [ERROR 16:43:19] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669218086 _save(): end-- INSERT ---- INSERT --
+
+
+[harpoon] [ERROR 16:43:20] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669218086 _save(): start
+[harpoon] [ERROR 16:43:20] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669218086 _save(): end
+-- INSERT ---- INSERT --
+[harpoon] [ERROR 16:43:26] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669218086 _save(): start
+[harpoon] [ERROR 16:43:26] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669218086 _save(): end-- INSERT --
+
+
+[harpoon] [ERROR 16:43:27] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669218086 _save(): start
+[harpoon] [ERROR 16:43:27] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669218086 _save(): end
+-- INSERT ---- INSERT --
+[harpoon] [ERROR 16:43:30] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669218086 _save(): start
+[harpoon] [ERROR 16:43:30] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669218086 _save(): end-- INSERT --
+
+
+[harpoon] [ERROR 16:43:32] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669218086 _save(): start
+[harpoon] [ERROR 16:43:32] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669218086 _save(): end
+-- INSERT ---- INSERT --
+[harpoon] [ERROR 16:43:33] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669218086 _save(): start
+[harpoon] [ERROR 16:43:33] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669218086 _save(): end-- INSERT ---- INSERT ---- INSERT --
+
+
+[harpoon] [ERROR 16:43:40] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669218086 _save(): start
+[harpoon] [ERROR 16:43:40] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669218086 _save(): end-- VISUAL --
+
+E492: Not an editor command: '<,'>qq!
+raphie/src/TP4.py" 66L, 1835B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 66L, 1839B written
+<es/Cryptographie/src/TP4.py" 66L, 1839B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 66L, 1836B written
+<es/Cryptographie/src/TP4.py" 66L, 1836B written
+
+<learning/MNS/Modules/Cryptographie/src/TP4.py" 
+<es/Cryptographie/src/TP4.py" 66L, 1832B written
+<es/Cryptographie/src/TP4.py" 66L, 1832B written-- VISUAL ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- VISUAL --
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 67L, 1836B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 67L, 1836B written-- VISUAL ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 68L, 1863B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 68L, 1863B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+?\<harpoon\>                                                                                               
+
+search hit TOP, continuing at BOTTOM
+E486: Pattern not found: \<harpoon\>-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 68L, 1848B written
+"~/dev/learning/MNS/Modules/Cryptographie/src/TP4.py" 68L, 1848B written
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+
+[harpoon] [ERROR 17:10:03] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:10:03] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end
+Do you need to configure your work environment as `busted`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 1
+Do you need to configure your work environment as `luassert`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 1
+
+[harpoon] [ERROR 17:10:03] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:10:03] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end
+
+[harpoon] [ERROR 17:12:11] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:12:11] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end
+
+[harpoon] [ERROR 17:12:11] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:12:11] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end
+-- INSERT --
+[harpoon] [ERROR 17:12:13] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:12:13] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+[harpoon] [ERROR 17:12:14] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:12:14] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end
+
+[harpoon] [ERROR 17:10:03] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:10:03] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end
+[harpoon] [ERROR 17:12:11] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:12:11] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end
+[harpoon] [ERROR 17:12:11] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:12:11] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end
+[harpoon] [ERROR 17:12:13] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:12:13] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end
+
+[harpoon] [ERROR 17:12:14] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:12:14] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end
+-- INSERT --
+[harpoon] [ERROR 17:13:21] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:13:21] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+[harpoon] [ERROR 17:13:27] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:13:27] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669219767 _save():
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer * end
+[harpoon] [ERROR 17:13:27] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:13:27] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end
+
+[harpoon] [ERROR 17:14:38] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669219767 _save(): start
+[harpoon] [ERROR 17:14:38] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669219767 _save(): end-- INSERT ---- INSERT --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"lua/harpoon/init.lua" 
+"lua/harpoon/init.lua" 334L, 9758B written
+"lua/harpoon/init.lua" 334L, 9758B written
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220112 _save(): start
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): end
+...site/pack/packer/start/plenary.nvim/lua/plenary/p...h:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon...e/pack/packer/start/harpoon/lua/harpoon/init.lua:157>
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220112 _save(): on_stdout start
+Do you need to configure your work environment as `busted`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 1
+Do you need to configure your work environment as `luassert`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 
+
+
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): start
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): end
+...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: Path:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:162: in function <...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:157>
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): on_stdout start
+-- INSERT --
+[harpoon] [ERROR 17:15:50] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220112 _save(): start
+[harpoon] [ERROR 17:15:50] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): end
+...site/pack/packer/start/plenary.nvim/lua/plenary/p...h:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon...h:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon...e/pack/packer/start/harpoon/lua/harpoon/init.lua:157>
+[harpoon] [ERROR 17:15:50] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220112 _save(): on_stdout start-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+[harpoon] [ERROR 17:15:55] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220112 _save(): start
+[harpoon] [ERROR 17:15:55] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): end
+...site/pack/packer/start/plenary.nvim/lua/plenary/p...h:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon...h:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon...h:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon...e/pack/packer/start/harpoon/lua/harpoon/init.lua:157>
+[harpoon] [ERROR 17:15:55] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220112 _save(): on_stdout start
+
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): start
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): end
+...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: Path:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:162: in function <...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:157>
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): on_stdout start
+[harpoon] [ERROR 17:15:50] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): start
+[harpoon] [ERROR 17:15:50] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): end
+...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: Path:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:162: in function <...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:157> function: builtin#18 ...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: Path:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:162: in function <...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:157>
+[harpoon] [ERROR 17:15:50] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): on_stdout start
+
+[harpoon] [ERROR 17:15:55] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): start
+[harpoon] [ERROR 17:15:55] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): end
+...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: Path:write_text requires a flag! For example: 'w' or 'a'
+
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): start
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): end
+...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: Path:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:162: in function <...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:157>
+[harpoon] [ERROR 17:15:22] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): on_stdout start
+[harpoon] [ERROR 17:15:50] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): start
+[harpoon] [ERROR 17:15:50] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): end
+...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: Path:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:162: in function <...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:157> function: builtin#18 ...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: Path:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:162: in function <...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:157>
+[harpoon] [ERROR 17:15:50] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): on_stdout start
+
+[harpoon] [ERROR 17:15:55] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): start
+[harpoon] [ERROR 17:15:55] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): end
+...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: Path:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:162: in function <...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:157> function: builtin#18 ...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: Path:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:162: in function <...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:157> function: builtin#18 ...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: Path:write_text requires a flag! For example: 'w' or 'a'
+stack traceback:
+^I[C]: in function 'assert'
+^I...site/pack/packer/start/plenary.nvim/lua/plenary/path.lua:724: in function 'write'
+^I...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:162: in function <...nvim/site/pack/packer/start/harpoon/lua/harpoon/init.lua:157>
+[harpoon] [ERROR 17:15:55] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220112 _save(): on_stdout start-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 334L, 9763B written
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 334L, 9763B written
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+[harpoon] [ERROR 17:21:09] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:21:09] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:21:09] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+Do you need to configure your work environment as `busted`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 
+
+[harpoon] [ERROR 17:21:09] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:21:09] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:21:09] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+Do you need to configure your work environment as `luassert`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 
+
+[harpoon] [ERROR 17:21:49] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:21:49] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:21:49] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:21:09] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:21:09] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:21:09] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+[harpoon] [ERROR 17:21:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:21:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:21:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:25] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:25] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:25] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+
+[harpoon] [ERROR 17:22:27] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:27] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:27] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+
+[harpoon] [ERROR 17:22:29] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:29] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:29] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:29] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:29] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+[harpoon] [ERROR 17:22:29] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:30] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:30] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:30] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:31] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:31] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:31] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+
+
+[harpoon] [ERROR 17:22:37] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:37] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:37] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:37] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:37] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+[harpoon] [ERROR 17:22:37] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:40] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:40] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:40] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:41] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:41] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:41] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:42] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:42] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:42] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:42] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:42] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+[harpoon] [ERROR 17:22:42] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:42] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:42] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:42] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:43] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:43] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:43] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+
+[harpoon] [ERROR 17:22:44] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:44] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:44] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:44] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:44] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+[harpoon] [ERROR 17:22:44] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:45] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:45] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:45]
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+"~/.local/share/nvim/harpoon.json" 
+<al/share/nvim/harpoon.json" 66L, 1828B written
+<al/share/nvim/harpoon.json" 66L, 1828B written
+"~/.local/share/nvim/harpoon.json" 
+"~/.local/share/nvim/harpoon.json" [noeol] 1L, 1492B
+
+"~/.local/share/nvim/harpoon.json" 
+"~/.local/share/nvim/harpoon.json" 68L, 1900B written
+"~/.local/share/nvim/harpoon.json" 68L, 1900B written
+
+[harpoon] [ERROR 17:22:13] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220491 _save(): start
+[harpoon] [ERROR 17:22:13] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220491 _save(): end
+[harpoon] [ERROR 17:22:13] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220491 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:17] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220491 _save(): start
+[harpoon] [ERROR 17:22:17] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220491 _save(): end
+[harpoon] [ERROR 17:22:17] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220491 _save(): on_stdout start
+"~/.local/share/nvim/harpoon.json" 
+"~/.local/share/nvim/harpoon.json" [noeol] 1L, 1592B
+
+"~/.local/share/nvim/harpoon.json" 
+"~/.local/share/nvim/harpoon.json" 72L, 2044B written
+"~/.local/share/nvim/harpoon.json" 72L, 2044B written
+ .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:46] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:46] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:46] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+E349: No identifier under cursor
+
+
+[harpoon] [ERROR 17:22:49] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:49] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:49] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:22:50] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:50] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:50] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+E73: tag stack empty
+E73: tag stack empty
+
+[harpoon] [ERROR 17:22:52] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:22:52] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:22:52] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:23:33] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:23:33] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:23:33] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start
+-- INSERT --
+[harpoon] [ERROR 17:23:36] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:23:36] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:23:36] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+[harpoon] [ERROR 17:23:37] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220465 _save(): start
+[harpoon] [ERROR 17:23:37] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220465 _save(): end
+[harpoon] [ERROR 17:23:37] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220465 _save(): on_stdout start-- VISUAL ---- VISUAL ---- INSERT ---- INSERT --
+-- VISUAL LINE ---- VISUAL LINE ---- VISUAL LINE ---- VISUAL LINE ---- VISUAL LINE ---- VISUAL LINE ---- VISUAL LINE --
+7 fewer lines
+7 fewer lines
+
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 326L, 9390B written
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 326L, 9390B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Error detected while processing nvim_exec():
+E117: Unknown function: repeat#set
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- VISUAL BLOCK ---- VISUAL BLOCK ---- VISUAL BLOCK ---- VISUAL BLOCK ---- INSERT --
+
+
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 327L, 9454B written
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 327L, 9454B written
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+[harpoon] [ERROR 17:26:43] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220799 _save(): start
+[harpoon] [ERROR 17:26:43] .../nvim/site/pack/packer...ge": true, "tmux_autoclose_windows": false}}\r', "" }
+Do you need to configure your work environment as `busted`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 
+Do you need to configure your work environment as `luassert`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 
+
+[harpoon] [ERROR 17:26:43] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220799 _save(): start
+[harpoon] [ERROR 17:26:43] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220799 _on_save(): data= { '{"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 0, "row": 22, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 0, "row": 23, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}\r', "" }
+E20: Mark not set-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+
+1 change; before #108  2 seconds ago
+1 change; before #108  2 seconds ago
+-- INSERT --
+[harpoon] [ERROR 17:27:27] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220799 _save(): start
+[harpoon] [ERROR 17:27:27] .../nvim/site/pack/packer...ge": true, "tmux_autoclose_windows": false}}\r', "" }-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+[harpoon] [ERROR 17:27:28] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220799 _save(): start
+[harpoon] [ERROR 17:27:28] .../nvim/site/pack/packer...ge": true, "tmux_autoclose_windows": false}}\r', "" }
+4 changes; before #107  66 seconds ago
+1 change; before #106  76 seconds ago
+1 change; before #106  76 seconds ago
+1 change; before #105  81 seconds ago
+1 change; before #105  81 seconds ago
+1 change; before #104  87 seconds ago
+1 change; before #104  87 seconds ago
+1 change; before #103  17:26:01
+1 change; before #103  17:26:01
+1 change; before #102  17:25:58
+1 change; before #102  17:25:58
+1 change; before #101  17:25:57
+1 change; before #101  17:25:57
+1 change; before #100  17:25:53
+1 change; before #100  17:25:53
+1 change; before #99  17:25:52
+1 change; before #99  17:25:52
+1 change; before #98  17:25:50
+1 change; before #98  17:25:50
+1 line less; before #97  17:25:46
+1 line less; before #97  17:25:46
+1 more line; before #96  17:25:22
+1 more line; before #96  17:25:22
+7 more lines; before #95  17:25:15
+7 more lines; before #95  17:25:15-- VISUAL BLOCK ---- VISUAL BLOCK ---- VISUAL BLOCK ---- VISUAL BLOCK ---- VISUAL BLOCK ---- VISUAL BLOCK ---- VISUAL BLOCK ---- VISUAL BLOCK ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+
+
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 331L, 9572B written
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 331L, 9572B written-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 331L, 9580B written
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 331L, 9580B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Error detected while processing nvim_exec():
+E117: Unknown function: repeat#set
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+
+
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 332L, 9632B written
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 332L, 9632B written
+
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 332L, 9632B written
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 332L, 9632B written
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+[harpoon] [ERROR 17:29:09] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220945 _save(): start
+[harpoon] [ERROR 17:29:09] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220945 _save(): end
+[harpoon] [ERROR 17:29:09] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220945 _save(): on_stdout start
+[harpoon] [ERROR 17:29:09] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M
+
+
+[harpoon] [ERROR 17:29:09] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220945 _save(): start
+[harpoon] [ERROR 17:29:09] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220945 _save(): end
+[harpoon] [ERROR 17:29:09] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220945 _save(): on_stdout start
+[harpoon] [ERROR 17:29:09] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669220945 _save(): decoded= {"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 1, "row": 2, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 0, "row": 23, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}^M
+
+[harpoon] [ERROR 17:29:52] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220945 _save(): start
+[harpoon] [ERROR 17:29:52] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220945 _save(): end
+[harpoon] [ERROR 17:29:52] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220945 _save(): on_stdout start
+[harpoon] [ERROR 17:29:52] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M-- INSERT ---- INSERT --
+
+
+"~/dev/personal/harpoon/on_save.py" 
+"~/dev/personal/harpoon/on_save.py" 47L, 1173B written
+"~/dev/personal/harpoon/on_save.py" 47L, 1173B written
+
+[harpoon] [ERROR 17:30:05] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669220945 _save(): start
+[harpoon] [ERROR 17:30:05] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669220945 _save(): end
+[harpoon] [ERROR 17:30:05] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669220945 _save(): on_stdout start
+[harpoon] [ERROR 17:30:05] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+
+
+[harpoon] [ERROR 17:30:24] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:30:24] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:30:25] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:30:25] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M
+Do you need to configure your work environment as `busted`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 
+
+
+[harpoon] [ERROR 17:30:24] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:30:24] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:30:25] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:30:25] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): decoded= {"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 40, "row": 33, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}^M
+
+[harpoon] [ERROR 17:30:43] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:30:43] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:30:43] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:30:43] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M
+
+[harpoon] [ERROR 17:30:50] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:30:50] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer...rpoon/lua/harpoon/d
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+[harpoon] [ERROR 17:32:54] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221155 _save(): start
+[harpoon] [ERROR 17:32:54] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221155 _save(): end
+[harpoon] [ERROR 17:32:54] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221155 _save(): on_stdout start
+[harpoon] [ERROR 17:32:54] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M
+ev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M
+
+[harpoon] [ERROR 17:34:12] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:34:12] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:34:12] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:34:12] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M
+
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M
+
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M
+-- INSERT --
+[harpoon] [ERROR 17:34:18] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:34:18] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:34:18] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:34:18] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+[harpoon] [ERROR 17:34:19] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:34:19] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:34:20] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:34:20] .../nvim/site/pack/packer...on_change": true, "tmux_autoclose_windows": false}}^M
+
+[harpoon] [ERROR 17:30:24] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:30:24] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:30:25] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:30:25] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): decoded= {"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 40, "row": 33, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}^M
+[harpoon] [ERROR 17:30:43] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:30:43] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:30:43] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:30:43] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): decoded= {"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 40, "row": 33, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}^M
+[harpoon] [ERROR 17:30:50] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:30:50] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): decoded= {"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 40, "row": 33, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}^M
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:30:51] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): decoded= {"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 40, "row": 33, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}^M
+[harpoon] [ERROR 17:34:12] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:34:12] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:34:12] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:34:12] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): decoded= {"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 49, "row": 47, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}^M
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): decoded= {"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 49, "row": 47, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}^M
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:34:14] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): decoded= {"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 49, "row": 47, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}^M
+[harpoon] [ERROR 17:34:18] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:34:18] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:34:18] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:34:18] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): decoded= {"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 0, "row": 67, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 49, "row": 47, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}^M
+
+[harpoon] [ERROR 17:34:19] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): start
+[harpoon] [ERROR 17:34:19] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): end
+[harpoon] [ERROR 17:34:20] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): on_stdout start
+[harpoon] [ERROR 17:34:20] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221019 _save(): decoded= {"projects": {"/opt/toolz/share/nvim/runtime/doc": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/tmuxp-plugin-loader": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/pypsf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/nvim": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/.local/share/nvim/site/pack/packer/start/cmp-tabnine/lua/cmp_tabnine": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/dotfiles/zsh": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/ffmpeg-usflib/debug/pyusf": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/learning/MNS/Modules/Cryptographie": {"mark": {"marks": []}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon": {"mark": {"marks": [{"col": 0, "row": 67, "filename": "lua/harpoon/init.lua"}, {"col": 25, "row": 31, "filename": "on_load.py"}, {"col": 49, "row": 47, "filename": "on_save.py"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/harpoon-session": {"mark": {"marks": [{"col": 0, "row": 1, "filename": "data/harpoon.json"}]}, "term": {"cmds": []}}, "/home/yul/dev/personal/obsidian-cli": {"mark": {"marks": []}, "term": {"cmds": []}}}, "global_settings": {"mark_branch": false, "save_on_toggle": false, "excluded_filetypes": ["harpoon"], "enter_on_sendcmd": false, "save_on_change": true, "tmux_autoclose_windows": false}}^Mrecording @jrecording @j
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+
+
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 331L, 9587B written
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 331L, 9587B written-- INSERT --
+
+
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 331L, 9590B written
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 331L, 9590B written
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+Do you need to configure your work environment as `luassert`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 
+
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:38:24] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:24] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:24] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:38:26] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:26] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:26] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:39:02] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:39:02] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:39:02] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+-- INSERT --
+[harpoon] [ERROR 17:39:05] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:39:05] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:39:05] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+[harpoon] [ERROR 17:39:06] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:39:06] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:39:06] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start-- INSERT ---- INSERT --
+
+
+[harpoon] [ERROR 17:39:08] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:39:08] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:39:08] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:24] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:24] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:24] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:26] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:26] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:26] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:39:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:39:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:39:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:39:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:39:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:39:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:39:06] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:39:06] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:39:06] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:39:08] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:39:08] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:39:08] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:37:49] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:01] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:24] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:24] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:24] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:38:26] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:38:26] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:38:26] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:39:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:39:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:39:02] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:39:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:39:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:39:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start
+[harpoon] [ERROR 17:39:06] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): start
+[harpoon] [ERROR 17:39:06] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): end
+[harpoon] [ERROR 17:39:06] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221465 _save(): on_stdout start-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 332L, 9623B written
+"~/dev/personal/harpoon/lua/harpoon/init.lua" 332L, 9623B written
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /home/yul/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /home/yul/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+Do you need to configure your work environment as `busted`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 
+Do you need to configure your work environment as `luassert`?: 
+1: Apply and modify settings
+2: Apply but do not modify settings
+3: Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 
+
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+
+[harpoon] [ERROR 17:42:11] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:42:11] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:42:11] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221646 _save(): on_stdout start-- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+
+
+"~/dev/personal/harpoon/on_save.py" 
+"~/dev/personal/harpoon/on_save.py" 47L, 1184B written
+"~/dev/personal/harpoon/on_save.py" 47L, 1184B written-- INSERT ---- INSERT ---- INSERT --
+-- VISUAL ---- VISUAL --
+
+"~/dev/personal/harpoon/on_save.py" 
+"~/dev/personal/harpoon/on_save.py" 47L, 1198B written
+"~/dev/personal/harpoon/on_save.py" 47L, 1198B written
+
+[harpoon] [ERROR 17:43:30] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:43:30] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:43:30] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+-- INSERT --
+[harpoon] [ERROR 17:43:47] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:43:47] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:43:47] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221646 _save(): on_stdout start-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+[harpoon] [ERROR 17:43:48] .../nvim/site/pack/packer...oon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:43:48] .../nvim/site/pack/packer...rpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:43:48] .../nvim/site/pack/packer...rpoon/dev.lua:36: 1669221646 _save(): on_stdout start-- VISUAL LINE ---- VISUAL LINE ---- VISUAL LINE ---- VISUAL LINE --
+3 lines yanked
+
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:40:54] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:41:05] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+[harpoon] [ERROR 17:42:11] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:42:11] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:42:11] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+
+
+
+"~/dev/personal/harpoon/on_save.py" 47L, 1184B written
+
+
+"~/dev/personal/harpoon/on_save.py" 47L, 1198B written
+[harpoon] [ERROR 17:43:30] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:43:30] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:43:30] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+[harpoon] [ERROR 17:43:47] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:43:47] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:43:47] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+
+[harpoon] [ERROR 17:43:48] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): start
+[harpoon] [ERROR 17:43:48] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): end
+[harpoon] [ERROR 17:43:48] .../nvim/site/pack/packer/start/harpoon/lua/harpoon/dev.lua:36: 1669221646 _save(): on_stdout start
+3 lines yanked
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"lua/harpoon/init.lua" 
+"lua/harpoon/init.lua" 332L, 9624B written
+"lua/harpoon/init.lua" 332L, 9624B written
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+--No lines in buffer--
+
+"~/vim.log" 
+"~/vim.log" 0L, 0B written
+"~/vim.log" 0L, 0B written
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+
+
+
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+"~/Desktop/dev/personal/harpoon/lua/harpoon/init.lua" 
+"~/Desktop/dev/personal/harpoon/lua/harpoon/init.lua" 332L, 9624B written
+"~/Desktop/dev/personal/harpoon/lua/harpoon/init.lua" 332L, 9624B written
+
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+Do you need to configure your work environment as `luassert`?
+Do you need to configure your work environment as `luassert`?
+
+Request Actions:
+1. Apply and modify settings
+2. Apply but do not modify settings
+3. Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): -- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+All parsers are up-to-date!
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2327B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2327B written
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+-- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+-- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+-- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+-- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7759B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/packer.lua" 219L, 7756B written
+remote/host: generated rplugin manifest: /Users/yul/.local/share/nvim/rplugin.vim
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2326B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2326B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:77: E474: Invalid argument
+stack traceback:
+	[C]: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:77: in main chunk-- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2327B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2327B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:77: E474: Invalid argument
+stack traceback:
+	[C]: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:77: in main chunk-- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2326B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2326B written-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2327B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2327B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:77: E474: Invalid argument
+stack traceback:
+	[C]: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:77: in main chunk-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2327B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 104L, 2327B written-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- VISUAL --
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 105L, 2330B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 105L, 2330B written-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/ui/icons.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/ui/icons.lua" 111L, 2367B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/ui/icons.lua" 111L, 2367B written
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- INSERT --
+
+
+-- VISUAL LINE --
+5 lines yanked
+
+5 more lines
+5 more lines-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Error detected while processing nvim_exec():
+E117: Unknown function: repeat#set
+
+
+
+
+
+
+
+-- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Error detected while processing nvim_exec():
+E117: Unknown function: repeat#set
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Error detected while processing nvim_exec():
+E117: Unknown function: repeat#set
+
+
+
+
+
+
+
+-- INSERT ---- INSERT --
+-- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2469B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2469B written-- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2465B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2465B written-- VISUAL --
+[osc52] 15 characters copied-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2465B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2465B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:79: attempt to concatenate field 'Newline' (a nil value)
+stack traceback:
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:79: in main chunk
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2462B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2462B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:81: E474: Invalid argument
+stack traceback:
+	[C]: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:81: in main chunk
+
+
+
+-- VISUAL --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2437B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2437B written-- INSERT --
+-- VISUAL BLOCK ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2450B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2450B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: E474: Invalid argument
+stack traceback:
+	[C]: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: in main chunk-- VISUAL ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2452B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2452B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: vim/_meta.lua:0: E474: Invalid argument
+stack traceback:
+	[C]: in function 'nvim_set_option_value'
+	vim/_meta.lua: in function '_set'
+	vim/_meta.lua: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: in main chunk
+1 change; before #73  5 seconds ago
+1 change; before #73  5 seconds ago
+
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2450B written
+"~/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua" 110L, 2450B written
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- VISUAL ---- INSERT --
+
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 110L, 2454B written
+"lua/av/set.lua" 110L, 2454B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: E474: Invalid argument
+stack traceback:
+	[C]: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: in main chunk
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+  listchars=eol:~,space:.,tab:>>>
+
+1 change; before #4  20:27:48
+1 change; before #4  20:27:48
+1 change; after #4  20:27:48
+1 change; after #4  20:27:48
+
+
+E474: Invalid argument: listchars=eol:\\uebea,space=.,tab=>
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+-- VISUAL --
+[osc52] 25 characters copied
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 110L, 2454B written
+"lua/av/set.lua" 110L, 2454B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: E474: Invalid argument
+stack traceback:
+	[C]: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: in main chunk
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 110L, 2452B written
+"lua/av/set.lua" 110L, 2452B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: E474: Invalid argument
+stack traceback:
+	[C]: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: in main chunk-- INSERT --
+
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 110L, 2454B written
+"lua/av/set.lua" 110L, 2454B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: E474: Invalid argument
+stack traceback:
+	[C]: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: in main chunk-- INSERT --
+8 more lines
+-- VISUAL LINE --
+7 fewer lines
+7 fewer lines-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT ---- INSERT ---- INSERT --
+-- VISUAL --
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 112L, 2463B written
+"lua/av/set.lua" 112L, 2463B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: Vim(set):E474: Invalid argument: listchars=eol:\\u21b5,space:.,tab:>
+stack traceback:
+	[C]: in function 'cmd'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: in main chunk
+
+--- Options ---
+  colorcolumn=80      filetype=lua        list                scrolloff=8         softtabstop=4       termguicolors     nowrap
+  columns=170         helplang=en         number              shiftwidth=4        suffixesadd=.lua    undofile
+  comments=:--      nohlsearch            relativenumber      signcolumn=yes    noswapfile            updatetime=50
+  expandtab           lines=46            scroll=22           smartindent         tabstop=4           window=45
+  commentstring=-- %s
+  define=\<function\|\<local\%(\s\+function\)\=
+  fileencoding=utf-8
+  foldexpr=nvim_treesitter#foldexpr()
+  formatexpr=v:lua.vim.lsp.formatexpr()
+  formatoptions=rqnj
+  guifont=monospace:h17
+  includeexpr=substitute(v:fname,'\.','/','g')
+  indentexpr=nvim_treesitter#indent()
+  indentkeys=0{,0},0),0],:,0#,!^F,o,O,e,0=end,0=until
+  isfname=#,$,%,+,,,-,.,/,48-57,=,@,@-@,_,~
+  keywordprg=:CheatPager!
+  listchars=eol:\u21b5
+  omnifunc=v:lua.vim,lsp.omnifunc
+  runtimepath=~/Desktop/dev/personal/dotfiles/nvim,/etc/xdg/nvim,~/.local/share/nvim/site,~/.local/share/nvim/site/pack/*/start/*,/usr/local/share/nvim/site,/usr/share/nvim/site,/opt/toolz/share/nvim/runtime,/opt/toolz/share/nvim/runtime/pack/dist/opt/matchit,/opt/toolz/lib/nvim,~/.local/share/nvim/site/pack/*/start/*/after,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,~/.local/share/nvim/site/after,/etc/xdg/nvim/after,~/Desktop/dev/personal/dotfiles/nvim/after,~/.local/share/nvim/site/pack/packer/start/telescope.nvim,~/.local/share/nvim/site/pack/packer/start/nvim-cmp,~/.local/share/nvim/site/pack/packer/start/nvim-treesitter-context,~/.local/share/nvim/site/pack/packer/start/nvim-treesitter,~/.local/share/nvim/site/pack/packer/start/harpoon,~/.local/share/nvim/site/pack/packer/start/telescope.nvim,~/.local/share/nvim/site/pack/packer/start/harpoon,~/.local/share/nvim/site/pack/packer/start/harpoon,~/.local/share/nvim/site/pack/packer/start/harpoon,~/.local/share/nvim/site/pack/packer/start/harpoon,~/.local/share/nvim/site/pack/packer/start/harpoon,~/.local/share/nvim/site/pack/packer/start/harpoon,~/.local/share/nvim/site/pack/packer/start/harpoon,~/.local/share/nvim/site/pack/packer/start/harpoon,~/.local/share/nvim/site/pack/packer/start/harpoon
+  shortmess=ltnfxOiocTF
+  spelloptions=noplainbuffer
+  statusline=%#lualine_a_command# COMMAND %#lualine_transitional_lualine_a_command_to_lualine_b_command#%#lualine_b_command#  master %#lualine_b_diff_added_command# +10 %#lualine_transitional_lualine_b_diff_added_command_to_lualine_c_command#%<%#lualine_c_command# set.lua %#lualine_c_command#%=%#lualine_c_command# utf-8 %#lualine_c_command#  %#lualine_x_filetype_DevIconLua_command# %#lualine_c_command# lua %#lualine_transitional_lualine_b_command_to_lualine_c_command#%#lualine_b_command# 73%% %#lualine_transitional_lualine_a_command_to_lualine_b_command#%#lualine_a_command#  82:10 
+  tagfunc=v:lua.vim.lsp.tagfunc
+  undodir=~/.cache/nvim
+  verbosefile=~/Desktop/dev/personal/harpoon/vim.log
+  wildignore=*.pyc,*_build/*,**/coverage/*,**/node_modules/*,**/android/*,**/ios/*,**/.git/*,TabNine,.stfolder,.venv,.mypy_cache,.pytest_cache,.DS_Store,__pycache__,.local
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+-- INSERT ---- INSERT ---- INSERT --
+
+
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 112L, 2449B written
+"lua/av/set.lua" 112L, 2449B written
+-- INSERT --
+
+1 change; before #90  2 seconds ago
+1 change; before #90  2 seconds ago
+1 change; before #89  11 seconds ago
+1 change; before #89  11 seconds ago-- VISUAL ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT --
+
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 112L, 2463B written
+"lua/av/set.lua" 112L, 2463B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: Vim(set):E474: Invalid argument: listchars=space:.,tab:>,eo
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+E138: All /Users/yul/.local/state/nvim/shada/main.shada.tmp.X files exist, cannot write ShaDa file!
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+E138: All /Users/yul/.local/state/nvim/shada/main.shada.tmp.X files exist, cannot write ShaDa file!
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+E138: All /Users/yul/.local/state/nvim/shada/main.shada.tmp.X files exist, cannot write ShaDa file!l:\\u21b5
+stack traceback:
+	[C]: in function 'cmd'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:82: in main chunk-- VISUAL --
+1 line less; before #96  2 seconds ago
+1 line less; before #96  2 seconds ago-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+1 change; before #106  1 second ago
+1 change; before #106  1 second ago
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 112L, 2443B written
+"lua/av/set.lua" 112L, 2443B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:81: E474: Invalid argument
+stack traceback:
+	[C]: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:81: in main chunk-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 112L, 2446B written
+"lua/av/set.lua" 112L, 2446B written
+
+
+E492: Not an editor command: fh listchars
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+-- VISUAL BLOCK ---- INSERT --
+
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 112L, 2452B written
+"lua/av/set.lua" 112L, 2452B written
+
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:
+E5113: Error while calling lua chunk: ...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:81: E474: Invalid argument
+stack traceback:
+	[C]: in function '__newindex'
+	...rs/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/set.lua:81: in main chunk-- INSERT --
+
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 112L, 2453B written
+"lua/av/set.lua" 112L, 2453B written
+-- VISUAL ---- INSERT --
+
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 112L, 2465B written
+"lua/av/set.lua" 112L, 2465B written
+-- VISUAL LINE --
+3 fewer lines
+3 fewer lines
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 109L, 2415B written
+"lua/av/set.lua" 109L, 2415B written
+
+[NvimTree] /Users/yul/Desktop/dev/personal/dotfiles/nvim/lua/av/autocmd.lua was properly created
+-- VISUAL LINE --
+13 fewer lines
+13 fewer lines
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 96L, 2124B written
+"lua/av/set.lua" 96L, 2124B written
+
+
+13 more lines
+13 more lines
+
+
+-- VISUAL LINE --
+12 fewer lines
+12 fewer lines
+
+"lua/av/set.lua" 
+"lua/av/set.lua" 83L, 1761B written
+"lua/av/set.lua" 83L, 1761B written
+
+
+
+12 more lines
+12 more lines
+12 fewer lines; before #3  1 second ago
+12 fewer lines; before #3  1 second ago-- INSERT --
+
+?]])                                                                                                                                                         
+
+?]])                                                                                                                                                    [1/2]
+?]])                                                                                                                                                    [1/2]-- INSERT --
+
+12 more lines
+12 more lines-- INSERT --
+
+
+"lua/av/autocmd.lua" 
+"lua/av/autocmd.lua" 26L, 656B written
+"lua/av/autocmd.lua" 26L, 656B written
+
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Error detected while processing nvim_exec():
+E117: Unknown function: repeat#set
+
+
+
+
+
+
+
+-- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/init.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/init.lua" 24L, 508B written
+"~/Desktop/dev/personal/dotfiles/nvim/init.lua" 24L, 508B written
+
+
+
+
+
+
+E138: All /Users/yul/.local/state/nvim/shada/main.shada.tmp.X files exist, cannot write ShaDa file!
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+E138: All /Users/yul/.local/state/nvim/shada/main.shada.tmp.X files exist, cannot write ShaDa file!
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+E138: All /Users/yul/.local/state/nvim/shada/main.shada.tmp.X files exist, cannot write ShaDa file!
+WinSeparator   xxx links to VertSplit
+Error detected while processing /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua..nvim_exec() called at /Users/yul/Desktop/dev/personal/dotfiles/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+--- Autocommands ---
+--- Autocommands ---
+Error detected while processing VimEnter Autocommands for "*":
+E216: No such group or event: FileExplorer *
+
+[NvimTree] /Users/yul/Desktop/dev/personal/dotfiles/nvim/data/plenary/filetypes/sh.lua was properly created
+
+
+
+
+Do you need to configure your work environment as `luassert`?
+Do you need to configure your work environment as `luassert`?
+
+Request Actions:
+1. Apply and modify settings
+2. Apply but do not modify settings
+3. Don't show again
+Type number and <Enter> or click with the mouse (q or empty cancels): 1
+--No lines in buffer--
+21 more lines-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/data/plenary/filetypes/sh.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/data/plenary/filetypes/sh.lua" 23L, 555B written
+"~/Desktop/dev/personal/dotfiles/nvim/data/plenary/filetypes/sh.lua" 23L, 555B written-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/data/plenary/filetypes/sh.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/data/plenary/filetypes/sh.lua" 23L, 559B written
+"~/Desktop/dev/personal/dotfiles/nvim/data/plenary/filetypes/sh.lua" 23L, 559B written
+
+
+
+
+
+
+-- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+"~/Desktop/dev/personal/dotfiles/nvim/init.lua" 
+"~/Desktop/dev/personal/dotfiles/nvim/init.lua" 25L, 551B written
+"~/Desktop/dev/personal/dotfiles/nvim/init.lua" 25L, 551B written
+
+E138: All /Users/yul/.local/state/nvim/shada/main.shada.tmp.X files exist, cannot write ShaDa file!

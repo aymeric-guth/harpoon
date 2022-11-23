@@ -55,6 +55,7 @@
         "/Users/yul/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after",
         "/Users/yul/.local/share/nvim/site/pack/packer/start/gruvbox-baby/after",
         "/Users/yul/Desktop/dev/personal/dotfiles/nvim/after",
-        "${3rd}/luassert/library"
+        "${3rd}/luassert/library",
+        "${3rd}/busted/library"
     ]
 }

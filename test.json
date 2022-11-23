@@ -1,0 +1,186 @@
+{
+    "projects": {
+        "$DEV/personal/ffmpeg-usflib/pyusf": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/dotfiles/alacritty": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/ffmpeg-usflib/pyusf/psflib": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/ffmpeg-usflib/external/FFmpeg": {
+            "mark": {
+                "marks": [
+                    { "col": 0, "row": 1, "filename": "libavformat/libgme.c" },
+                    { "col": 0, "row": 70, "filename": "libavformat/psflib.c" }
+                ]
+            },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/ffmpeg-usflib/pyusf/usf": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/ffmpeg-usflib/usr/include/lazyusf2": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/harpoon-session/external/harpoon": {
+            "mark": {
+                "marks": [
+                    { "col": 4, "row": 186, "filename": "lua/harpoon/init.lua" }
+                ]
+            },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/dotfiles/env": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/tmuxp-plugin-loader": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/playground": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/dotfiles": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/psflib": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/work/novall-rsn-px4_ekf": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/scraper": {
+            "mark": {
+                "marks": [
+                    { "col": 44, "row": 52, "filename": "main.py" },
+                    { "col": 0, "row": 7, "filename": "requirements.txt" }
+                ]
+            },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/dotfiles/bin": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/dotfiles/zsh": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/dotfiles/nvim": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/work/novall-rsn-px4_ekf/project": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/ffmpeg-usflib/usr/include/gme": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/go": { "mark": { "marks": [] }, "term": { "cmds": [] } },
+        "$DEV/personal/ffmpeg-usflib/external/FFmpeg/libavformat": {
+            "mark": {
+                "marks": [
+                    { "col": 1, "row": 108, "filename": "psflib.c" },
+                    { "col": 0, "row": 34, "filename": "libgme.c" }
+                ]
+            },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/mplayer": {
+            "mark": {
+                "marks": [
+                    {
+                        "col": 12,
+                        "row": 127,
+                        "filename": "src/services/input/helpers.py"
+                    }
+                ]
+            },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/mpv_build": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/harpoon-session": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/ffmpeg-usflib/external/psflib": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/ffmpeg-usflib/external/game-music-emu": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/ffmpeg-usflib": {
+            "mark": {
+                "marks": [{ "col": 0, "row": 57, "filename": ".func.sh" }]
+            },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/utils": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/harpoon": {
+            "mark": {
+                "marks": [
+                    {
+                        "col": 0,
+                        "row": 174,
+                        "filename": "lua/harpoon/init.lua"
+                    },
+                    { "col": 0, "row": 7, "filename": "autosave.lua" },
+                    { "col": 0, "row": 1, "filename": "main.py" }
+                ]
+            },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/ffmpeg-usflib/external/lazyusf2": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/ffmpeg-usflib/debug/pyusf": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/obsidian-cli": {
+            "mark": { "marks": [] },
+            "term": { "cmds": [] }
+        },
+        "$DEV/personal/pypsf": {
+            "mark": {
+                "marks": [
+                    { "col": 32, "row": 158, "filename": "pypsf/parser.py" },
+                    { "col": 0, "row": 49, "filename": "pypsf/_pypsf.py" },
+                    { "col": 14, "row": 53, "filename": "pypsf/__main__.py" }
+                ]
+            },
+            "term": { "cmds": [] }
+        }
+    },
+    "global_settings": {
+        "mark_branch": false,
+        "save_on_toggle": false,
+        "excluded_filetypes": ["harpoon"],
+        "enter_on_sendcmd": false,
+        "save_on_change": true,
+        "tmux_autoclose_windows": false
+    }
+}
